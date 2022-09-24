@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+.form{
+  background-color: antiquewhite;
+  
+}
+.button{
+  background-color: rgb(219, 208, 208);
+  border-radius: 10px;
+  font-size: smaller;
+  cursor: pointer;
+}
+input{
+  display: block;
+  margin-bottom: 10px;
+  border-radius: 20px;
+
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 4rem;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #04aa6d;
+  color: #fff;
+}
